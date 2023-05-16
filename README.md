@@ -6,6 +6,18 @@
 
 <h1 align="center">Hey There! 👋 I'm Mahesh ✨</h1>
 <h3 align="center">A curious Computer Enthusiast</h3>
+<h2>About Me:</h2>
+
+```yaml
+Name: Mahesh
+fields_of_interests:
+  [
+    "AI & ML",
+    "IOT",
+  ]
+hobbies: ["Photography", "Reading", "Basketball"]
+```
+
 
 
 <!---
