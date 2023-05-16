@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <h1 align="center">Hey There! 👋 I'm Mahesh ✨</h1>
-<h3 align="center">A curious Computer Enthusiast h3>
+<h3 align="center">A curious Computer Enthusiast</h3>
 
 
 <!---
