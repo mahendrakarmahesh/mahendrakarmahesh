@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<h1 align="center">Hey There! 👋 I'm Mahesh ✨</h1>
+<h1 align="center">Hey There! I'm Mahesh </h1>
 <h3 align="center">A curious Computer Enthusiast</h3>
 <h2>About Me:</h2>
 
