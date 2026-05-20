@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m @mahendrakarmahesh
+<!-- - Hi, I’m @mahendrakarmahesh
 - 👀 I’m interested in Computers 
 - 🌱 I’m currently learning C lang,..
 - 💞️ I’m looking to collaborate on ...
